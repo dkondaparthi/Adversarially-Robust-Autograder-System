@@ -36,6 +36,7 @@ Open
 
 -------------------------------------------------------------------------------------------------------
 Model Files : This folder has all the saved models and architecuture diagram of dual CNN model.
+
 Data Sets: It has dataset from ASAP challenge, GLove Embeddings, 
 © 2020 GitHub, Inc.
 Terms
