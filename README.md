@@ -1,9 +1,6 @@
 # Adversarially-Robut-Autograder-System
 
 Project: Towards bulding foolproof Automated Essay Scoring sytem robust to Adversarial attacks
-Author: Dheeraj Kumar Kondaparthi(dkonda2@uic.edu)
-------------------------------------------------------------------------------------------------------
-Extract the .zip and upload /StatNLP/... folder and all its files and sub-folders into Google drive
 --------------------------------------------------------------------------------------------------------
 Pre-requisites:
 All libraries are required as listed below.
