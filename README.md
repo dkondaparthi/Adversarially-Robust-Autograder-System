@@ -6,14 +6,23 @@ Pre-requisites:
 All libraries are required as listed below.
 
 Python 3.7.3
+
 Google Colab
+
 Keras 1.14.0
+
 Tensorflow 2.0 
+
 Anaconda 3
+
 Jupyter Notebook 
+
 Matplotlib
+
 Numpy 
+
 Pandas
+
 GloVe Embedding Vector sets (by Stanford University) must be downloaded into Data set/GloVe
 
 --------------------------------------------------------------------------------------------------
@@ -36,6 +45,7 @@ Open
 
 -------------------------------------------------------------------------------------------------------
 Model Files : This folder has all the saved models and architecuture diagram of dual CNN model.
+
 Data Sets: It has dataset from ASAP challenge, GLove Embeddings, 
 © 2020 GitHub, Inc.
 Terms
