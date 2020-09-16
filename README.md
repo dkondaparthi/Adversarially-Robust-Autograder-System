@@ -6,14 +6,23 @@ Pre-requisites:
 All libraries are required as listed below.
 
 Python 3.7.3
+
 Google Colab
+
 Keras 1.14.0
+
 Tensorflow 2.0 
+
 Anaconda 3
+
 Jupyter Notebook 
+
 Matplotlib
+
 Numpy 
+
 Pandas
+
 GloVe Embedding Vector sets (by Stanford University) must be downloaded into Data set/GloVe
 
 --------------------------------------------------------------------------------------------------
